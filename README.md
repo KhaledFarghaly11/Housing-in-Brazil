@@ -2,7 +2,7 @@
 
 ## Dataset Description:
 
-Dataset with 21,000 properties for sale in Mexico through the real estate website Properati.com.
+Dataset with 12,834 properties for sale in Mexico through the real estate website Properati.com.
 
 ## Objectives:
 
